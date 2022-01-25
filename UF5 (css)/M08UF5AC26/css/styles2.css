@@ -1,0 +1,161 @@
+body {
+    background-color: black;
+}
+#global {
+    width: 765px;
+    height: 450px;
+    padding: 200px;
+}
+#columna1 {
+    float: left;
+    margin-right: 1px;
+    margin-top: 0px;
+}
+#white1 {
+    width: 80px;
+    height: 100px;
+    background-color: white;
+    margin: 5px;
+}
+#white2 {
+    background-color: white;
+    width: 80px;
+    height: 250px;
+    margin: 5px;
+    float: ;
+}
+#white3 {
+    background-color: white;
+    margin: 5px;
+    width: 80px;
+    height: 50px;
+}
+#white4 {
+    background-color: white;
+    margin: 5px;
+    width: 80px;
+    height: 50px;
+}
+#columna2 {
+    float: left;
+}
+#yellow1 {
+    background-color: yellow;
+    width: 160px;
+    height: 465px;
+    margin-right: 1px;
+    margin-top: 5px;
+}
+#columna3 {
+    float: left;
+    margin-right: 1px;
+}
+
+#blue1 {
+    background-color: blue;
+    width: 160px;
+    height: 150px;
+    margin: 5px;
+    float: left;
+}
+#yellow2 {
+    background-color: yellow;
+    width: 160px;
+    height: 310px;
+    margin-left: 5px;
+    margin-top: 160px;
+}
+#columna4 {
+    float: left;
+}
+#red1 {
+    background-color: red;
+    width: 165px;
+    height: 310px;
+    margin-top: 5px;
+}
+#red2 {
+    background-color: red;
+    width: 80px;
+    height: 50px;
+    margin-top: 5px;
+}
+#red3 {
+    background-color: red;
+    width: 80px;
+    height: 50px;
+    margin-left: 85px;
+    margin-top: -50px;
+}
+#blue2 {
+    background-color: blue;
+    width: 80px;
+    height: 95px;
+    margin-top: 5px;
+}
+#red4 {
+    background-color: red;
+    width: 80px;
+    height: 95px;
+    margin-top: -95px;
+    margin-left: 85px;
+}
+#columna5 {
+    float: left;
+}
+#yellow3 {
+    background-color: yellow;
+    width: 80px;
+    height: 105px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#yellow4 {
+    background-color: yellow;
+    width: 80px;
+    height: 50px;
+    margin-left: 90px;
+    margin-top: -105px;
+}
+#red5 {
+    background-color: red;
+    width: 80px;
+    height: 50px;
+    margin-left: 90px;
+    margin-top: 5px;
+}
+#white5 {
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#white6 {
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    margin-top: -50px;
+    margin-left: 90px;
+}
+#red6 {
+    background-color: red;
+    width: 165px;
+    height: 145px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#yellow5 {
+    background-color: yellow;
+    height: 150px;
+    width: 80px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#yellow6 {
+    background-color: yellow;
+    height: 150px;
+    width: 80px;
+    margin-top: -150px;
+    margin-left: 90px;
+}
